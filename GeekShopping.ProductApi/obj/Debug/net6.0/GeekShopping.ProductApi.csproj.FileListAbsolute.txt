@@ -1,5 +1,6 @@
 F:\NET Projects\Microservices\GeekShopping\GeekShopping.ProductApi\bin\Debug\net6.0\appsettings.Development.json
 F:\NET Projects\Microservices\GeekShopping\GeekShopping.ProductApi\bin\Debug\net6.0\appsettings.json
+F:\NET Projects\Microservices\GeekShopping\GeekShopping.ProductApi\bin\Debug\net6.0\GeekShopping.ProductApi.staticwebassets.runtime.json
 F:\NET Projects\Microservices\GeekShopping\GeekShopping.ProductApi\bin\Debug\net6.0\GeekShopping.ProductApi.exe
 F:\NET Projects\Microservices\GeekShopping\GeekShopping.ProductApi\bin\Debug\net6.0\GeekShopping.ProductApi.deps.json
 F:\NET Projects\Microservices\GeekShopping\GeekShopping.ProductApi\bin\Debug\net6.0\GeekShopping.ProductApi.runtimeconfig.json

@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "pnm+agDpddzv1CLwZRmm1bw/vralYPszqPIioJ2AcUY=",
+  "Hash": "VJ9EhRtLsXTh7tqtPfLGBnEVZkVQNhw9fXaA0o9Ox28=",
   "Source": "GeekShopping.ProductApi",
   "BasePath": "_content/GeekShopping.ProductApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GeekShopping.ProductApi\\wwwroot",
+      "Source": "GeekShopping.ProductApi",
+      "ContentRoot": "F:\\NET Projects\\Microservices\\GeekShopping\\GeekShopping.ProductApi\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.ProductApi",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
